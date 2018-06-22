@@ -1,0 +1,25 @@
+title: MozFest Planning
+url: "https://mozillafestival.org/"
+baseurl: "/"
+
+email: mozopenness2018@googlegroups.com
+twitter: mozfestopenness
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+destination: '_site'
+
+collections:
+  open:
+    output: true
+    permalink: /:collection/:month/:title
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+
+include:
+  - '_pages'
+  - '_open'

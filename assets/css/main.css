@@ -1,0 +1,66 @@
+:root {
+  --page-horizontal-padding: 15rem;
+  --page-vertical-padding: 5rem;
+  --primary-font-color: #4a4a4a;
+}
+
+body {
+  background: white;
+  font-family: "Fira Sans";
+}
+
+body a {
+  text-decoration: none;
+}
+
+body li {
+  list-style-type: none;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 60px;
+  padding: 0 var(--page-horizontal-padding);
+}
+
+.header li {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  margin-right: auto;
+}
+
+.header__logo img {
+  width: 240px;
+}
+
+.header__logo a {
+  display: flex;
+}
+
+.header li a {
+  font-size: 1.5rem;
+  padding: 1rem;
+  color: var(--primary-font-color);
+}
+
+.page__content {
+  padding: var(--page-vertical-padding) var(--page-horizontal-padding);
+}
+
+.space__title {
+  font-size: 3rem;
+}
+
+.space__subtitle {
+  font-size: 2rem;
+}
+
+footer {
+  padding: 0 var(--page-horizontal-padding);
+}
