@@ -29,5 +29,20 @@ permalink: /
       </a>
     </li>
   </ul>
+
+  <ul class="space__notes">
+    <li>
+      <a href="mailto:sessions@mozilla.org">Group mailing list</a>
+    </li>
+    <li>
+      <a href="https://twitter.com/Mozillafestival" target="_blank">Twitter - @Mozillafestival</a>
+    </li>
+    <li>
+      <a href="https://twitter.com/search?q=%23mozfest" target="_blank">Twitter - #MozFest</a>
+    </li>
+    <li>
+      <a href="https://mozfest.slack.com" target="_blank">Slack - MozFest</a>
+    </li>
+  </ul>
  </div>
 </section>

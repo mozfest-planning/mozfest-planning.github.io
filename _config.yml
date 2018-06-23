@@ -19,6 +19,13 @@ collections:
     output: true
     permalink: /:collection/:month/:title
 
+defaults:
+  - scope:
+      path: ""
+      type: "open"
+    values:
+      layout: "space"
+
 plugins:
   - jekyll-relative-links
 

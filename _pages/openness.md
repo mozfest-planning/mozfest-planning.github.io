@@ -26,7 +26,10 @@ permalink: /openness
         </a>
       </li>
       <li class="space__note">
-        Call: 6pm CET
+        Call: Every Friday, 6pm CET
+      </li>
+      <li>
+        <a href="https://gitter.im/moz-openness-2018/Chat" target="_blank">Gitter</a>
       </li>
     </ul>
    </div>
