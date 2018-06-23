@@ -10,11 +10,17 @@ kramdown:
   input: GFM
   hard_wrap: false
 destination: '_site'
+relative_links:
+  enabled:     true
+  collections: true
 
 collections:
   open:
     output: true
     permalink: /:collection/:month/:title
+
+plugins:
+  - jekyll-relative-links
 
 exclude:
   - 'Gemfile'

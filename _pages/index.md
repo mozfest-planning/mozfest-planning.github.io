@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /mozfest/
+permalink: /
 ---
 <section class="space">
  <div class="space__title">Welcome Wranglers to the Planning Page!</div>
