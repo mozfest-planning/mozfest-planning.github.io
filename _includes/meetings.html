@@ -1,6 +1,11 @@
 <div class="meetings__list">
   <div class="space__subtitle">All Meetings List</div>
-  {% assign postsByYearMonth = site.open | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+  {% if page.space == 'all' %}
+    {% assign space = site.all %}
+  {% elsif page.space == 'open' %}
+    {% assign space = site.open %}
+  {% endif %}
+  {% assign postsByYearMonth = space | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
   {% for yearMonth in postsByYearMonth %}
     <h3>{{ yearMonth.name }}</h3>
       <ul>

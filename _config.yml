@@ -18,13 +18,15 @@ collections:
   open:
     output: true
     permalink: /:collection/:month/:title
+  all:
+    output: true
+    permalink: /:collection/:month/:title
 
 defaults:
   - scope:
       path: ""
-      type: "open"
     values:
-      layout: "space"
+      layout: "meeting-notes"
 
 plugins:
   - jekyll-relative-links
@@ -36,3 +38,4 @@ exclude:
 include:
   - '_pages'
   - '_open'
+  - '_all'

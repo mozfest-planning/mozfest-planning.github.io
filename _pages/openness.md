@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /openness
+space: open
 ---
 <section class="space">
   <div class="space__title">The Open Space</div>
