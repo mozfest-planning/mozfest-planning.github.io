@@ -28,6 +28,30 @@ permalink: /
         Zoom
       </a>
     </li>
+    <li class="space__note">
+      <a
+        href="https://docs.google.com/spreadsheets/d/1ywwrf8iKjtZmt3AOeqfY_Xybh-cevnFft_5YgGwk_m4/edit?ts=5b197f87#gid=0"
+        target="_blank"
+      >
+        Proposal spreadsheet
+      </a>
+    </li>
+    <li class="space__note">
+      <a
+        href="https://docs.google.com/document/d/1-_dszm-7RjtKn8KOF56HDv8NKOmWFWz_2QFEonAfrP4/edit#"
+        target="_blank"
+      >
+        Communication cheatsheet
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://docs.google.com/document/d/1tM2N6WPUpIQMx0-Sf0sel3m4QqCMCs4MGEHwoCEwUyU/edit?usp=sharing"
+        target="_blank"
+      >
+        Notes - MozRetreat 2018, Eindhoven
+      </a>
+    </li>
   </ul>
 
   <ul class="space__notes">

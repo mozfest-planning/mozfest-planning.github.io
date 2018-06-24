@@ -61,6 +61,20 @@ body li {
   font-size: 2rem;
 }
 
+.space__wranglers {
+  border: 1px solid;
+  padding: 1rem;
+}
+
+.space__wrangler {
+  display: flex;
+  padding: 1rem;
+}
+
+.space__wrangler div {
+  margin-right: 1rem;
+}
+
 footer {
   padding: 0 var(--page-horizontal-padding);
 }
