@@ -56,7 +56,7 @@ The MVP version supports meeting notes for -
 
 ## Create a Pull Request
 
-- Successfully create a new meeting notes (Please refer to the above section)
+- Successfully create a new meeting notes. Please refer to [this](#create-new-meeting-notes) above section.
 - `git add .`
 - `git commit -m "added meeting notes for YYYY-MM-DD" -s`
 - `git push <remote> <branch>`
