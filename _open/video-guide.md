@@ -3,7 +3,7 @@ title: Share your MozFest experiences!
 date: 2018-07-08
 ---
 
-## Share your MozFest experiences with others? 
+## Share your MozFest experiences with others!
 
 Have you been to MozFest before as an attendee, facilitator, wrangler, or volunteer? This is your chance to share what it meant for you in a short video. 
 
